@@ -1,6 +1,6 @@
 # Projeto de Landing Page: App de Meditação
 
-![Prévia do Projeto]()
+![Prévia do Projeto](images/capa-projeto.png)
 
 ## Descrição do Projeto
 
@@ -11,9 +11,6 @@ Este é um projeto de uma landing page simples, desenvolvida para praticar e apr
 * HTML5
 * CSS3
 
-## Status
-
-Projeto concluído.
 
 ## Agradecimento
 
